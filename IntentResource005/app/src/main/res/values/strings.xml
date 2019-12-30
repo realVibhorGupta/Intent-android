@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentResource005</string>
+    <string name="title_label_text">Please Enter Your String:</string>
+    <string name="title_box_hint">Please Enter Your String</string>
+    <string name="button_text">Display String</string>
+    <string name="default_title_text">Default Text String!</string>
+</resources>
